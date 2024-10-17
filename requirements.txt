@@ -1,0 +1,7 @@
+fake-useragent==1.5.1
+loguru==0.7.2
+requests==2.32.3
+web3==7.2.0
+inquirer==3.4.0
+tqdm==4.66.5
+
