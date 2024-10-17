@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 3. Specify settings in _main.py_
 4. Populate _keys.txt_ with private keys, one key on each line
-5. OPTIONAL: Populate _proxies.txt_ with at least 1 proxy server or set `USE_PROXY` to `False`. Format LOGIN:PASS@IP:PORT
+5. OPTIONAL: Populate _proxies.txt_ with at least 1 proxy server or set `USE_PROXY` to `False`
 4. Run _main.py_
 ```
 py main.py
